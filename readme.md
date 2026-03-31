@@ -1,4 +1,3 @@
-read me format
 # Ocean Explorer - Probe Navigation System
 
 ## Overview
