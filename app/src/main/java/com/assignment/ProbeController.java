@@ -13,7 +13,7 @@ public class ProbeController {
         this.probe = probe;
     }
 
-    private void execute(Command command) {
+    public void execute(Command command) {
         command.execute(probe, grid);
     }
 
