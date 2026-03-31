@@ -9,6 +9,8 @@ The design focuses on clean separation of concerns and extensibility.
 
 ## Design Approach
 
+![Alt text](./image.png)
+
 The system is composed of the following components:
 
 ### OceanGrid
@@ -86,4 +88,4 @@ No changes required in existing logic.
 
 ---
 
-![Alt text](./image.png)
+
